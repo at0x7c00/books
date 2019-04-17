@@ -33,7 +33,7 @@
 ## 分布式
 * Distributed Systems Principles and Paradigms  *Andrew S·Tanenbaum* [ulf9](https://pan.baidu.com/s/1csEGUJI4X47jehIyfA-MxA)
 * Principles of Distributed Computing *Roger Wattenhofer*：[jcn7](https://pan.baidu.com/s/1RE5fuLo99C7lOONlMZQt5Q )
-* 《Designing Data-Intensive Application》 *[Martin Kleppmann](https://martin.kleppmann.com/)* [8d10](https://pan.baidu.com/s/1bui4UoNuMXrWcq924pD2mQ), 中文版：[vga1](https://pan.baidu.com/s/1J8AuhIiaNATHEFb7NR5MyQ)
+* Designing Data-Intensive Application *[Martin Kleppmann](https://martin.kleppmann.com/)*: [8d10](https://pan.baidu.com/s/1bui4UoNuMXrWcq924pD2mQ), 中文版：[vga1](https://pan.baidu.com/s/1J8AuhIiaNATHEFb7NR5MyQ)
 ## 哲学
 * [人生的智慧](https://book.douban.com/subject/25867570/)及[叔本华系列](https://book.douban.com/series/19890)
 * [刀锋](https://book.douban.com/subject/26896878/) 威廉·萨默塞特·毛姆 
