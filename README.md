@@ -1,6 +1,8 @@
 # 我的阅读清单
 记录一些我读过的、觉得还比较好的书。或者一些我打算读的书。
 
+**注意**，本项目所有书籍资源仅供交流和学习使用，请勿商用。若喜欢且有条件，请购买正版书籍，以便更好地支持原书作者。
+
 ## 操作系统
 * [汇编语言](https://book.douban.com/subject/3037562/) 王爽
 * [8051微控制器和嵌入式系统](https://book.douban.com/subject/2175630/) 阿里
@@ -29,9 +31,9 @@
 ## 编程工具
 * [Pro Git](https://git-scm.com/book/en/v2) Scott Chacon / Ben Straub 
 ## 分布式
-* Distributed Systems Principles and Paradigms: [ulf9](https://pan.baidu.com/s/1csEGUJI4X47jehIyfA-MxA)
-* Principles of Distributed Computing：[jcn7](https://pan.baidu.com/s/1RE5fuLo99C7lOONlMZQt5Q )
-* 设计数据密集型应用: [vga1](https://pan.baidu.com/s/1J8AuhIiaNATHEFb7NR5MyQ), 英文版：[8d10](https://pan.baidu.com/s/1bui4UoNuMXrWcq924pD2mQ)
+* Distributed Systems Principles and Paradigms  *Andrew S·Tanenbaum* [ulf9](https://pan.baidu.com/s/1csEGUJI4X47jehIyfA-MxA)
+* Principles of Distributed Computing *Roger Wattenhofer*：[jcn7](https://pan.baidu.com/s/1RE5fuLo99C7lOONlMZQt5Q )
+* 《Designing Data-Intensive Application》 *[Martin Kleppmann](https://martin.kleppmann.com/)* [8d10](https://pan.baidu.com/s/1bui4UoNuMXrWcq924pD2mQ), 中文版：[vga1](https://pan.baidu.com/s/1J8AuhIiaNATHEFb7NR5MyQ)
 ## 哲学
 * [人生的智慧](https://book.douban.com/subject/25867570/)及[叔本华系列](https://book.douban.com/series/19890)
 * [刀锋](https://book.douban.com/subject/26896878/) 威廉·萨默塞特·毛姆 
