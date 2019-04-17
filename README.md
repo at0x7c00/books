@@ -31,7 +31,7 @@
 ## 编程工具
 * [Pro Git](https://git-scm.com/book/en/v2) Scott Chacon / Ben Straub 
 ## 分布式
-* Distributed Systems Principles and Paradigms  *Andrew S·Tanenbaum* [ulf9](https://pan.baidu.com/s/1csEGUJI4X47jehIyfA-MxA)
+* Distributed Systems Principles and Paradigms  *Andrew S·Tanenbaum* : [ulf9](https://pan.baidu.com/s/1csEGUJI4X47jehIyfA-MxA)
 * Principles of Distributed Computing *Roger Wattenhofer*：[jcn7](https://pan.baidu.com/s/1RE5fuLo99C7lOONlMZQt5Q )
 * Designing Data-Intensive Application *[Martin Kleppmann](https://martin.kleppmann.com/)*: [8d10](https://pan.baidu.com/s/1bui4UoNuMXrWcq924pD2mQ), 中文版：[vga1](https://pan.baidu.com/s/1J8AuhIiaNATHEFb7NR5MyQ)
 ## 哲学
