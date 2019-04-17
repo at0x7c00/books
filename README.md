@@ -29,7 +29,7 @@
 ## 编程工具
 * [Pro Git](https://book.douban.com/subject/26208470/) Scott Chacon / Ben Straub 
 ## 分布式
-* Distributed Systems Principles and Paradigms: [ulf9](链接：https://pan.baidu.com/s/1csEGUJI4X47jehIyfA-MxA)
+* Distributed Systems Principles and Paradigms: [ulf9](https://pan.baidu.com/s/1csEGUJI4X47jehIyfA-MxA)
 * Principles of Distributed Computing：[jcn7](https://pan.baidu.com/s/1RE5fuLo99C7lOONlMZQt5Q )
 * 设计数据密集型应用: [vga1](https://pan.baidu.com/s/1J8AuhIiaNATHEFb7NR5MyQ), 英文版：[8d10](https://pan.baidu.com/s/1bui4UoNuMXrWcq924pD2mQ)
 ## 哲学
