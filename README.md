@@ -27,7 +27,7 @@
 ## 编程语言
 * [C语言程序设计-现代方法](https://book.douban.com/subject/4279678/) K. N. King 
 ## 编程工具
-* [Pro Git](https://book.douban.com/subject/26208470/) Scott Chacon / Ben Straub 
+* [Pro Git](https://git-scm.com/book/en/v2) Scott Chacon / Ben Straub 
 ## 分布式
 * Distributed Systems Principles and Paradigms: [ulf9](https://pan.baidu.com/s/1csEGUJI4X47jehIyfA-MxA)
 * Principles of Distributed Computing：[jcn7](https://pan.baidu.com/s/1RE5fuLo99C7lOONlMZQt5Q )
