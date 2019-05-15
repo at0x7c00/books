@@ -42,4 +42,4 @@
 ## 理财
 * [富爸爸，穷爸爸](https://book.douban.com/subject/1033778/) （美）罗伯特・T・清崎 / 莎伦・L・莱希特 
 ## 其他
-* [幸福的真意](https://book.douban.com/subject/3422625/)
+* [幸福的真意](https://book.douban.com/subject/3422625/) 积极心理学，可以作为现代人人手一本的人生指南
